@@ -1,0 +1,14 @@
+# theme
+remote_theme: pmarsceill/just-the-docs
+
+# header
+title: 與Golang對抗
+description: 與Golang對抗
+baseurl: "/"
+url: "https://golangProjectCrusaders.github.io"
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "my GitHub":
+    - "//github.com/golangProjectCrusaders/"
