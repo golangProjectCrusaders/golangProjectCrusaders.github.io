@@ -93,13 +93,13 @@ CREATE TABLE `article` (
 ```
 
 1. 先選要被管理的table，就找圖上的順序
-![](https://i.imgur.com/67D9pU5.png)
+![](res/import_table.png)
 
 2. 接著是產生code
-![](https://i.imgur.com/AL7gESZ.png)
+![](res/gen_code.png)
 
 3. 放到旁邊的菜單
-![](https://i.imgur.com/Voe23L2.png)
+![](res/setup_menu.png)
 
 4. 關掉server，`go build`，再開一次
 我不確定要不要重編，但保險?
@@ -111,4 +111,4 @@ CREATE TABLE `article` (
 的錯...
 
 5. 之後就可以CURD
-![](https://i.imgur.com/t9sjkEm.png)
+![](res/result.png)
